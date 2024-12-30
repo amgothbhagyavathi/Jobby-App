@@ -1,0 +1,20 @@
+.home-conatiner-image {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 100vh;
+  background-size: cover;
+  padding: 40px;
+}
+.heading {
+  color: white;
+  font-size: 32px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  margin-bottom: 30px;
+}
+.para {
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  margin-bottom: 30px;
+}
